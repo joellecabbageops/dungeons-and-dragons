@@ -1,0 +1,1 @@
+Appearance: Very short brown hair with scars all around his ears and forehead

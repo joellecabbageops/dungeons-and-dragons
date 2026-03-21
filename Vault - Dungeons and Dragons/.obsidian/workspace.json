@@ -45,8 +45,7 @@
               "title": "Summoner Sublass"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +204,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9fd4a224b39d1462",
+  "active": "b29c4aa37283caae",
   "lastOpenFiles": [
-    "Elemental Summon.md",
     "Summoner Sublass.md",
+    "Elemental Summon.md",
     "The tale of seven.md",
     "Pasted image 20260208110008.png",
     "Untitled.canvas",

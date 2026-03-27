@@ -1,0 +1,29 @@
+<root a="32" b="32" shadow="20" enable_printing="on" pa="200" pb="200" title="Industrial">
+  <list name="modes">
+    <mode name="floor">
+      <list name="groups">
+        <group title="Floor" folder="floor/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="walls">
+      <list name="groups">
+        <group title="Walls" folder="space-wall/" x="10" y="10" blur="on" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="terrain">
+      <list name="groups"/>
+    </mode>
+    <mode name="obstacles">
+      <list name="groups">
+        <group title="Objects" folder="objs/" x="4" y="4" blur="off" shadow="on" rotate="off"/>
+        <group title="Weapon" folder="weapon/" x="2" y="2" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="decor">
+      <list name="groups"/>
+    </mode>
+    <mode name="plants">
+      <list name="groups"/>
+    </mode>
+  </list>
+</root>

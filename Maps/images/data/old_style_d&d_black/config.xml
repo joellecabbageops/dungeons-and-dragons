@@ -1,0 +1,27 @@
+<root a="32" b="32" shadow="0" enable_printing="on" pa="200" pb="200">
+  <list name="modes">
+    <mode name="floor">
+      <list name="groups">
+        <group title="Ground" folder="grownd/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="walls">
+      <list name="groups"/>
+    </mode>
+    <mode name="terrain">
+      <list name="groups"/>
+    </mode>
+    <mode name="obstacles">
+      <list name="groups">
+        <group title="Objects" folder="objects/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="Walls" folder="walls/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="decor">
+      <list name="groups"/>
+    </mode>
+    <mode name="plants">
+      <list name="groups"/>
+    </mode>
+  </list>
+</root>

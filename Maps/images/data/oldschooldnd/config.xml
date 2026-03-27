@@ -1,0 +1,30 @@
+<root title="Oldschool D&D" a="32" b="32" shadow="30" enable_printing="off" pa="200" pb="200">
+  <list name="modes">
+    <mode name="floor">
+      <list name="groups">
+        <group title="FloorBlue" folder="floor1/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="FloorBrown" folder="floor2/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="walls">
+      <list name="groups"/>
+    </mode>
+    <mode name="terrain">
+      <list name="groups"/>
+    </mode>
+    <mode name="obstacles">
+      <list name="groups">
+        <group title="DungeonBlue" folder="DungeonBlue/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="DungeonBrown" folder="DungeonBrown/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="OverlandBlue" folder="OverlandBlue/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="OverlandBrown" folder="OverlandBrown/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="decor">
+      <list name="groups"/>
+    </mode>
+    <mode name="plants">
+      <list name="groups"/>
+    </mode>
+  </list>
+</root>

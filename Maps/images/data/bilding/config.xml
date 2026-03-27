@@ -1,0 +1,40 @@
+<root a="32" b="32" shadow="30" enable_printing="on" pa="200" pb="200" title="buildings">
+  <list name="modes">
+    <mode name="floor">
+      <list name="groups">
+        <group title="Pavement" folder="floor/tiles/" x="0" y="0" blur="off" shadow="on" rotate="off" />
+        <group title="Stone floor" folder="floor/tiles2/" x="0" y="0" blur="off" shadow="on" rotate="off" tilex="2" tiley="2" />
+        <group title="Wooden floor" folder="floor/wood/" x="0" y="0" blur="off" shadow="on" rotate="off" tilex="2" tiley="2" />
+        <group title="Roof" folder="floor/roof/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="walls">
+      <list name="groups">
+        <group title="Bricks" folder="wall/brick/" x="15" y="15" blur="on" shadow="on" rotate="off"/>
+        <group title="Logs" folder="wall/log/" x="15" y="15" blur="on" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="terrain">
+      <list name="groups"/>
+    </mode>
+    <mode name="obstacles">
+      <list name="groups">
+        <group title="Interior" folder="objects/interier/" x="5" y="5" blur="off" shadow="on" rotate="off"/>
+        <group title="Floor decor" folder="objects/decor/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="Coffins" folder="objects/coffins/" x="3" y="3" blur="off" shadow="on" rotate="off"/>
+        <group title="Chest" folder="objects/boxes/" x="4" y="4" blur="off" shadow="on" rotate="off"/>
+        <group title="Interior2" folder="objects/jinny-int/" x="5" y="5" blur="off" shadow="on" rotate="off"/>
+        <group title="Ruins" folder="objects/ruins/" x="6" y="6" blur="off" shadow="on" rotate="off"/>
+        <group title="Stairs" folder="objects/ladders/" x="0" y="0" blur="off" shadow="off" rotate="off"/>		
+      </list>
+    </mode>
+    <mode name="decor">
+      <list name="groups">
+        <group title="Stones" folder="decor/stones/" x="2" y="2" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="plants">
+      <list name="groups"/>
+    </mode>
+  </list>
+</root>

@@ -1,0 +1,33 @@
+<root title="dragonville" a="32" b="32" shadow="30" enable_printing="off" pa="200" pb="200">
+  <list name="modes">
+    <mode name="floor">
+      <list name="groups">
+        <group title="wood" folder="floors/wood/" tilex="3" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="stone" folder="floors/stone/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="terrain">
+      <list name="groups"/>
+    </mode>
+    <mode name="plants">
+      <list name="groups"/>
+    </mode>
+    <mode name="walls">
+      <list name="groups">
+        <group title="walls" folder="walls/walls1/" tilex="1" tiley="1" x="0" y="0" blur="on" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="decor">
+      <list name="groups"/>
+    </mode>
+    <mode name="obstacles">
+      <list name="groups">
+		<group title="objects" folder="objects/objects/" tilex="1" tiley="1" x="5" y="5" blur="off" shadow="on" rotate="off"/>
+        <group title="tavern" folder="objects/tavern/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="armory" folder="objects/armory/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>        
+        <group title="workshop" folder="objects/workshop/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="magetower" folder="objects/magetower/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+  </list>
+</root>

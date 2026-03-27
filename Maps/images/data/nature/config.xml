@@ -1,0 +1,40 @@
+<root a="32" b="32" shadow="30" enable_printing="on" pa="200" pb="200" title="Nature">
+  <list name="modes">
+    <mode name="floor">
+      <list name="groups">
+        <group title="Grass" folder="floor/grass-open/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="Grass2" folder="floor/grass-jinny/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="Ground" folder="floor/ground-open/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="walls">
+      <list name="groups"/>
+    </mode>
+    <mode name="terrain">
+      <list name="groups">
+        <group title="Terrain" folder="terrain/grownd/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="Paths" folder="terrain/path/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="obstacles">
+      <list name="groups">
+        <group title="Camp" folder="objects/camp/" x="6" y="6" blur="off" shadow="on" rotate="off"/>
+        <group title="Objects" folder="objects/objects/" x="2" y="2" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="decor">
+      <list name="groups">
+        <group title="Leaves" folder="decor/" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="plants">
+      <list name="groups">
+        <group title="Forest" folder="plants/forest/" x="15" y="15" blur="on" shadow="on" rotate="off"/>
+        <group title="Bush" folder="plants/bush/" x="5" y="5" blur="on" shadow="on" rotate="off"/>
+        <group title="Park" folder="plants/park/" x="10" y="10" blur="on" shadow="on" rotate="off"/>
+        <group title="Palm" folder="plants/palm/" x="10" y="10" blur="on" shadow="on" rotate="off"/>
+        <group title="Exotic" folder="plants/wonder/" x="10" y="10" blur="on" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+  </list>
+</root>

@@ -1,0 +1,29 @@
+<root title="FantasyFortress" a="32" b="32" shadow="30" enable_printing="off" pa="200" pb="200">
+  <list name="modes">
+    <mode name="walls">
+      <list name="groups">
+        <group title="walls1" folder="walls/walls1/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="off" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="decor">
+      <list name="groups"/>
+    </mode>
+    <mode name="obstacles">
+      <list name="groups">
+        <group title="furniture" folder="objects/furniture/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="off" rotate="off"/>
+        <group title="table_top_stuff" folder="objects/on_table_staff/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="floor">
+      <list name="groups">
+        <group title="floor1" folder="floors/floors1/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="terrain">
+      <list name="groups"/>
+    </mode>
+    <mode name="plants">
+      <list name="groups"/>
+    </mode>
+  </list>
+</root>

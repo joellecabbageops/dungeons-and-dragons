@@ -1,0 +1,37 @@
+<root title="favorite" a="32" b="32" shadow="30" enable_printing="off" pa="200" pb="200">
+  <list name="modes">
+    <mode name="floor">
+      <list name="groups">
+        <group title="tiles" folder="floors/indoor_big/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="small tiles" folder="floors/indoor/" tilex="3" tiley="3" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="grounds" folder="floors/outdoor/" tilex="3" tiley="3" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="terrain">
+      <list name="groups"/>
+    </mode>
+    <mode name="plants">
+      <list name="groups"/>
+    </mode>
+    <mode name="walls">
+      <list name="groups">
+        <group title="stone walls" folder="walls/stone/" tilex="1" tiley="1" x="0" y="0" blur="on" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+    <mode name="decor">
+      <list name="groups"/>
+    </mode>
+    <mode name="obstacles">
+      <list name="groups">
+        <group title="barrels & cases" folder="objects/barrels/" tilex="1" tiley="1" x="2" y="2" blur="off" shadow="on" rotate="off"/>
+		<group title="tables & chairs" folder="objects/tables/" tilex="1" tiley="1" x="2" y="2" blur="off" shadow="on" rotate="off"/>
+        <group title="altars & coffins" folder="objects/altars/" tilex="1" tiley="1" x="2" y="2" blur="off" shadow="on" rotate="off"/>
+        <group title="stairs" folder="objects/stairs/" tilex="1" tiley="1" x="0" y="0" blur="off" shadow="on" rotate="off"/>
+        <group title="columns" folder="objects/columns/" tilex="1" tiley="1" x="2" y="2" blur="off" shadow="on" rotate="off"/>
+        <group title="armory" folder="objects/armory/" tilex="1" tiley="1" x="2" y="2" blur="off" shadow="on" rotate="off"/>
+        <group title="beds" folder="objects/bads/" tilex="1" tiley="1" x="2" y="2" blur="off" shadow="on" rotate="off"/>
+		<group title="other" folder="objects/other/" tilex="1" tiley="1" x="2" y="2" blur="off" shadow="on" rotate="off"/>
+      </list>
+    </mode>
+  </list>
+</root>

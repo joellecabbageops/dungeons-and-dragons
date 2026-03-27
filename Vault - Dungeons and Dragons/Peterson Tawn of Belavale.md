@@ -1,0 +1,2 @@
+[[The tale of seven]] met him in [[1408]], [[Session 03]] and [[Session 04]]. He turned his village into ants accidentally by holding a Lesser Wish tablet he found while playing with ants, and thinking the thought "I wish these ants were as cool as my family."
+Born in [[1402]], son of [[Mhyrla Tawn of Belavale]].

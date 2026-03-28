@@ -1,0 +1,1 @@
+Grants a flat AC of 17, once repaired it will grant a flat AC of 18

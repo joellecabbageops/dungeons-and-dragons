@@ -53,3 +53,5 @@ The players may want to have the Ents take them to the camp, ambush a group of b
 
 The Ents want the party to find how they put Ents to sleep, and either report back to make a plan, or disable them all, then and there.
 
+Throughout the bandit camp is 100 people's worth of buildings, men and women in cages, including
+

@@ -1,0 +1,1 @@
+The town that was turned to ants by a Lesser Wish spell infused in a tablet and rescued by [[The tale of seven]] in 1408

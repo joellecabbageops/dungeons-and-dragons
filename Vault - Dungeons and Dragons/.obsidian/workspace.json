@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "5",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,18 +254,19 @@
   },
   "active": "d62f950be38906f2",
   "lastOpenFiles": [
-    "Great Wise One.md",
-    "Session 5.md",
-    "Broken Hidden Bracer.md",
-    "The ring of the orc Berserker Chieftan.md",
-    "The orb of zìdòng tiáoyīn.md",
-    "Damaged Orcish Heavy Armour.md",
-    "Orcish Greatsword.md",
     "Summoner Sublass.md",
-    "Session 02 20260131.md",
-    "Mhyrla Tawn of Belavale.md",
+    "Session 5.md",
+    "The ring of the orc Berserker Chieftan.md",
+    "Orcish Greatsword.md",
+    "Broken Hidden Bracer.md",
+    "The orb of zìdòng tiáoyīn.md",
+    "Beyla.md",
     "Session 04.md",
-    "Peterson Tawn of Belavale.md",
+    "Peterson Tawn of Beyla.md",
+    "Mhyrla Tawn of Beyla.md",
+    "Great Wise One.md",
+    "Damaged Orcish Heavy Armour.md",
+    "Session 02 20260131.md",
     "Elemental Summon.md",
     "The tale of seven.md",
     "Pasted image 20260208110008.png",
@@ -280,7 +281,6 @@
     "Hudson Walliker.md",
     "Kira Stolk.md",
     "Madelleine Singell, the Mauervell girl.md",
-    "Shailavar Merilas.md",
-    "players.md"
+    "Shailavar Merilas.md"
   ]
 }

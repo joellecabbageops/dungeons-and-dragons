@@ -1,11 +1,12 @@
-Starting context: [[Harold the Guinea Fowl]] jumped down the ant hole in search of [[Vakama]], and it's the day after [[Tenet of Xervalon]] broke the [[Lesser Wish tablet]], their second day at the village.
+Starting context: The remaining ant in the village is named Jeff.
+[[Harold the Guinea Fowl]] jumped down the ant hole in search of [[Vakama]], and it's the day after [[Tenet of Xervalon]] broke the [[Lesser Wish tablet]], their second day at the village.
 The injured ox still hasn't been investigated. If they do investigate, DC15 to tell it was hunted, DC20 to tell what by, DC25 to tell it was days ago.
 
 [[Harold the Guinea Fowl]] starts off the session by following [[Vakama]] around.
 
 John will continue tending to people, and making sure all is okay with the people who are beginning to get back on their feet, literally.
-Without much needing to be done in the village he will suggest that they make tonight their last night in the town. He's spoken to [[Peterson Tawn of Belavale]]'s mother, [[Mhyrla Tawn of Belavale]]. 
-To [[Mhyrla Tawn of Belavale]], their saviours are more than welcome to stay, but she expects that when the leader of their village regains his tongue, he'll be running them away without the thanks they deserve.
+Without much needing to be done in the village he will suggest that they make tonight their last night in the town. He's spoken to [[Peterson Tawn of Beyla]]'s mother, [[Mhyrla Tawn of Beyla]]. 
+To [[Mhyrla Tawn of Beyla]], their saviours are more than welcome to stay, but she expects that when the leader of their village regains his tongue, he'll be running them away without the thanks they deserve.
 
 The travellers who are staying in the town are apparently visitors from a nearby village with a similar culture to these folk. Apparently it was nearly time for a festival.
 
@@ -17,14 +18,14 @@ Where the monkey is laying on the ground, it will have been found to have been d
 
 The orcs laying here are a result of battles with Illystrial scouts and hunters ~40 odd years ago. This troupe had been buried and not recovered. 
 
-John will ask [[Mhyrla Tawn of Belavale]] for a written brief of what she knows happened here since being turned to and from ants, and for a letter of recommendation.
+John will ask [[Mhyrla Tawn of Beyla]] for a written brief of what she knows happened here since being turned to and from ants, and for a letter of recommendation.
 
-As the party leaves they will be encouraged to take the cart with them by [[Mhyrla Tawn of Belavale]]. "We'll be okay this season. As ants we managed to gather much food and preserve it." Inside the cart is a large ant egg, and two smaller ones. If asked about them, [[Mhyrla Tawn of Belavale]] will say that she's sure no one will want to have much part in the ants, but she expects they will still hold under [[Peterson Tawn of Belavale]]'s control when they hatch. 
+As the party leaves they will be encouraged to take the cart with them by [[Mhyrla Tawn of Beyla]]. "We'll be okay this season. As ants we managed to gather much food and preserve it." Inside the cart is a large ant egg, and two smaller ones. If asked about them, [[Mhyrla Tawn of Beyla]] will say that she's sure no one will want to have much part in the ants, but she expects they will still hold under [[Peterson Tawn of Beyla]]'s control when they hatch. 
 
 John turns into a bear to pull the cart.
-[[Peterson Tawn of Belavale]] will be very sorry to see them go, and will wave goodbye when they leave alongside a couple of kiddos from the village in the village, saying "I hope we get to see you again someday!"
+[[Peterson Tawn of Beyla]] will be very sorry to see them go, and will wave goodbye when they leave alongside a couple of kiddos from the village in the village, saying "I hope we get to see you again someday!"
 
-The player's next encounter will be with ents, so before that point I want to give them a few things they can potentially come across.
+The player's next encounter will be with Ents, so before that point I want to give them a few things they can potentially come across.
 
 [[The sleeping statue of Mog]], with an inscription below his nameplate that says "In remembrance of the hero Mog, he who slew many hundreds of invaders. May he return to these lands and walk again someday."
 
@@ -55,3 +56,11 @@ The Ents want the party to find how they put Ents to sleep, and either report ba
 
 Throughout the bandit camp is 100 people's worth of buildings, men and women in cages, including
 
+Notes: JJ succeeded on an animal handling check to deliver Ellary's letter to Major in Mauer
+Jeff is now named Jeff.
+
+Peterson's friends are Madelleine and Jack
+The party has one extra large egg and three small ones.
+Ellary is intensely studying the slave wristbands
+They've taken [[Mog the Barbarian]] with them.
+[[Magnus the Wizard]].

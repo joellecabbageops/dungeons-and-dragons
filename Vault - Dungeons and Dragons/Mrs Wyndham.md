@@ -1,0 +1,1 @@
+[[Ellary of Smiffen Burrows]]'s elderly dwarven neighbour

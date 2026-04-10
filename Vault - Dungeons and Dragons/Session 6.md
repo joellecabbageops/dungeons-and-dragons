@@ -2,6 +2,10 @@
 
 
 The players start the session off at Toat the Wizards tower around midday. They will be invited inside for some food, but not yet welcome upstairs.
+Things [[Toat the Wizard]] wants to say:
+"Around the world there are countless burial chambers of kings that didn't realise if they made a perfectly good house and left it empty, something would move into it.
+"If you see Magnus, tell him that his grandpa warns he should be trying to provide for and protect the people of Mauer instead of making them into conquerors. Empire's are like towers built too tall, they fall over.."
+"How long will you all be travelling together for?" "Consider the people your with and that they may be people you would like to rely on in the near future. A red dragon, orcs and opportunistic slavers make you youngin's living in future people's history books."
 
 [[Bandit town in the forest of Doorn]] - Approached by the Ents of the forest, some proclaiming to be a small resistance against their unbeatable foe.
 

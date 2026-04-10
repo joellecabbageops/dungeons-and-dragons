@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +210,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "bedd0c1ee5ea992c",
+  "active": "0e582d40584b0c8c",
   "lastOpenFiles": [
-    "Vanagan's Youth.md",
     "Vanagan's Youth session 3.md",
+    "Vanagan's Youth.md",
     "Session 6.md",
     "Elvas the Drum Teacher.md",
     "Mrs Wyndham.md",

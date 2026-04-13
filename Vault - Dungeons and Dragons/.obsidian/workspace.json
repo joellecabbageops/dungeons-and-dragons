@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session 6",
+                "query": "neighbou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,10 +212,12 @@
   },
   "active": "bedd0c1ee5ea992c",
   "lastOpenFiles": [
+    "Ent Lantern.md",
+    "Session 6.md",
+    "Ellary of Smiffen Burrows.md",
     "Session 5.md",
     "Vanagan's Youth session 3.md",
     "Vanagan's Youth.md",
-    "Session 6.md",
     "Elvas the Drum Teacher.md",
     "Mrs Wyndham.md",
     "Magnus the Wizard.md",
@@ -237,8 +239,6 @@
     "Pasted image 20260208110008.png",
     "Untitled.canvas",
     "Vakama.md",
-    "Eleanor.md",
-    "Lucy Longbottom.md",
-    "Trech.md"
+    "Eleanor.md"
   ]
 }

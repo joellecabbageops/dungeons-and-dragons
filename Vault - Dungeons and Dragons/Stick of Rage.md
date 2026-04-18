@@ -1,0 +1,3 @@
+A carved, thumb-width stick of great sturdiness. Holding it fills you with a furious urge to break it.
+
+Holding this stick fills you with an insurmountable urge to try to break it. You must use your action and make a DC 22 Strength check to attempt to break it. If you fail, you throw the stick 20 feet in a random direction. If you succeed, your strength score becomes 20 for 24 hours, and you enter a Rage, as the Barbarian trait.

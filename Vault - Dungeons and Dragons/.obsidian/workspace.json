@@ -11,10 +11,14 @@
             "id": "751a543e9235d945",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Minor Arena chests.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Minor Arena chests"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orcish",
+                "query": "chest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,6 +183,18 @@
   },
   "active": "751a543e9235d945",
   "lastOpenFiles": [
+    "Minor Arena.md",
+    "Golden Halo.md",
+    "Minor Arena chests.md",
+    "Maester Sword.md",
+    "Iron Nail.md",
+    "Two-Sided Die.md",
+    "Finely Woven Rug.md",
+    "Jar o' Eyeballs.md",
+    "Stick of Rage.md",
+    "Lynx Eye Gem.md",
+    "Romeot and Julio.md",
+    "Time to learn combat.md",
     "Session 5.md",
     "Vanagan's Youth session 4.md",
     "Vanagan's Youth session 3.md",
@@ -193,19 +209,7 @@
     "Summoner Sublass.md",
     "Elemental Summon.md",
     "Session 04.md",
-    "The ring of the orc Berserker Chieftan.md",
-    "Broken Hidden Bracer.md",
-    "The orb of zìdòng tiáoyīn.md",
-    "Beyla.md",
-    "Peterson Tawn of Beyla.md",
-    "Mhyrla Tawn of Beyla.md",
-    "Great Wise One.md",
-    "Damaged Orcish Heavy Armour.md",
-    "Session 02 20260131.md",
-    "The tale of seven.md",
     "Pasted image 20260208110008.png",
-    "Untitled.canvas",
-    "Vakama.md",
-    "Eleanor.md"
+    "Untitled.canvas"
   ]
 }

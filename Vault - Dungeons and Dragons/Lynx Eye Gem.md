@@ -1,0 +1,1 @@
+Lynx eye is a specific type of labradorite (a feldspar gemstone). Labradorite as a class of stones is pale to dark gray and has patches of colored reflections. This "flash" is most commonly blue but can be of all shades. "Green Flash" labradorite is called lynx eye in the Realms.

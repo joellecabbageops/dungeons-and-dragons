@@ -1,0 +1,1 @@
+A jar containing six eyeballs (2 human, 1 goblin, 1 ogre, 1 worg, and 1 hawk) in a clear liquid.

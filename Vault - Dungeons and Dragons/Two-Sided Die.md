@@ -1,0 +1,1 @@
+This perculiar dice is made out of copper and has two sides. Engraved on one side is the portrait of a long forgotten ruler, on the other is an ornate two headed chimera. Useful for making decisions. Doesn't roll well.

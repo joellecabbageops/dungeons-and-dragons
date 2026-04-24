@@ -1,0 +1,3 @@
+|   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|
+|A shiny silver sword with a purple hilt. There are three orange pommels at the center of the hilt that each resembles a triangle, placed together so they create a larger triangle as a group. The guard is shaped like two outstretched wings and along the blade of this sword are etchings in Elvish that read "The Blade of Evil's Bane". Looking into the history of this sword will tell of an order of Maesters who, upon growing weary of merely recording the passage of history, decided to make it themselves.||Rare|3 lb|Weapon|1d8 Slashing - Versatile (1d10)|Martial Weapon Expertise|Uberbeard|4|0.4129523349|

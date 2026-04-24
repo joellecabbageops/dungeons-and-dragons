@@ -1,0 +1,6 @@
+The party come across a hole in the ground with a very large circumference, a mossy cobbled brick building in the center with a cubed room on top of a larger one with the top of a door way showing at the bottom of the hole. It's looks like it's been climbed in and out of recently.
+Surrounding the building is a range of tables and tools that appears to have made this a digging site. Lucy, you recognise the green and vined hilts of the tools as belonging to the city of [[Alour]], where you're Elven friend lives. To the edges of the excavation site are tents.
+
+Tent 1:
+Another table, covered in reference documents, some with drawing that seem old yet depict the top of the building you've seen. The drawing indicates it's the top of a much larger structure. A diary lays on the table open to a page partly filled.
+Page: So far the our team remains cheery about the task. This dig site has been a long way down the list of priorities for finding the city of old, but we've all come to know each other quite well, so it's become more about the company for some of us. We keep w- SOMEONE'S YELLING FOR ME, THEY FOUND SOMETHING TEA BREAK IS FIN~

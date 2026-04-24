@@ -1,0 +1,1 @@
+**LANTERNS HP is 5 and AC is 7**

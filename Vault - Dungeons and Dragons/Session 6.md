@@ -34,24 +34,7 @@ Beats:
 	   Any 1 lantern still standing will disable Ents within the camp.
 	3. The storage and the blacksmith are to the south, meal room is closest to the entrance, and the building to the north has only just been finished.
 	4. He will try to hide the fact that their small lanterns aren't enough to disable the [[Great Wise One]].
-	5. Throughout the bandit camp is 100 people's worth of buildings, men and women in cages, including [[Elvas the Drum Teacher]] and [[Mrs Wyndham]]
-4. Players attempt to take on the bandit camp.
-	1. 2 patrols of 4 bandits move around the base, while others move around the camp.
-	2. Looking over the camp, the cages may stick out to you the most. Assortments of species stand and sit. Ellary, as you look at the people, the dwarf with a grey head and beard of hair, and the blonde elf look familiar to you. [[Elvas the Drum Teacher]] and [[Mrs Wyndham]] stand next to eachother.
-	3. 3 bandits check people out at the entrance.
-	4. The rest of the camp rest at their campfire, gathers and moves wood for more buildings, or is out of site in the buildings.
-	5. **LANTERNS HP is 5 and AC is 7**
-	6. Depending on how long they watch for, the party will see a Red Dragonborn moving around the camp with authority, people moving away from him with senses of urgency and direction.
-	7. After clearing the lanterns, [[Ents of Doorn]] move in after 18 seconds to recover from their sleep. The [[Great Wise One]] begins raining spikes down on the bandits, seeming to know immediately who has been a willing participant to controlling their sleep.
-	8. The final battle will be against the bandit leader and a squad of bandits with him, trying to drag another large lantern out of the storage room. A goliath bandit with maximum health holds a large shield over the [[Bandits of Doorn's leader]] and the [[Ent Lantern]].
-	9. At the start of the final battle, Dexter leaps over the wall and joins the battle.
-	10. When [[Bandits of Doorn's leader]] dies, he says **"Prepare yourselves. The Vilk are coming..."** and fakes his death, later healing himself and escaping from the forest with a shattered half of a lantern.
-	11. In the aftermath, writhing giant roots, [[Ents of Doorn]] and [[Ent doglikes]] settle, changing their efforts to surrounding the players each with a wide berth. Hurriedly, [[BirdHome the Ent]] marches through with circular pieces of wood that he places on people's tunics.
-	   "These soft people"
-	   "Fleshfolk"
-	   "FLESHFOLK are friends now. Allow them the time to see the caged fleshfolk to safety, and they shall be granted passage through our home."
-	12. Dexter has a letter in his pouch that says "I hope this finds you well, Andrew. I am a friend of Shail and Tenet's. I came across Dexter travelling at speed through the forest and exchanged words with him. I will deliver the letter [[Ellary of Smiffen Burrows]] has written for her elder cousin to Mauer, but more importantly an Elf from [[Illystrial]] was tailing Dexter, and he held a sigil which you will find in Dexter's pouch alongside this letter. I dispatched of him, but be wary. If anyone knew of his mission, they will grow concerned about his whereabouts eventually."
-5. Players move on from the bandit camp, continuing with safe passage to... the southern mountain range?
+	5. Throughout the bandit camp is 100 people's worth of buildings, men and women in cages, including [[Mrs Wyndham]]
 
 
 
@@ -80,5 +63,5 @@ An old wagon wheel with unknown runes carved in the spokes.
 Buried the random rabbit they found
 1 night passes, Watch: Lucy, Shail, Ellary, Andrew.
 one broken lantern, Shail has one and Ellary has one.
-[[Bandits of Doorn's leader]] is named Sanfage.
+[[Bandits of Doorn's leader, Sanfage]] is named Sanfage.
 

@@ -8,12 +8,10 @@ By the end, the adventurers road will turn them into the people they need to be 
 If this is not the place they would like to be, the forest below the mountain is plentiful in berries and fruits, and a small boat will be their passage to leave.
 The spectators will then let them know that if they were sent here, it was intentional, and that the spectators are the first of many challenges.
 
-**If the players stay**
-Fight the battle I made with Jayce
 
-**If the players leave**
-A small island that looks good for resting the night keeps them safe until a large waves come, forcing them into a cave to hide where wild animals seek shelter with them. Further into the cave is the tomb of the old Queen, Naphtali.
 
 Merlin took spectator slime
 Dark dwarves coordinated with the evil wizard to turn the city to "wraiths"
 Centurion seeks more powerful weapons
+
+[[Vanagan's Youth Session 6]]

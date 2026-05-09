@@ -1,0 +1,1 @@
+Mauriel is the tall black guardsman who lets the fighters into the arena.

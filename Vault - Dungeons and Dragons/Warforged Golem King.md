@@ -1,3 +1,8 @@
+---
+hp: 0
+level: 3
+modifier: 0
+---
 58 hp
 16 AC
 +4 to hit with fists, 2d8 + 3 dmg

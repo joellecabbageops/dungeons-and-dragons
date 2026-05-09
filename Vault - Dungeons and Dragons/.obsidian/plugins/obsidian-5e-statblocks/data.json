@@ -1,0 +1,482 @@
+{
+  "monsters": [
+    [
+      "Giant Wasp 2024",
+      {
+        "name": "Giant Wasp 2024",
+        "size": "Medium",
+        "type": "beast",
+        "alignment": "unaligned",
+        "ac": 12,
+        "hp": 13,
+        "hit_dice": "3d8",
+        "speed": "10 ft., fly 50 ft.",
+        "stats": [
+          10,
+          14,
+          10,
+          1,
+          10,
+          3
+        ],
+        "senses": "passive Perception 10",
+        "challenge": 0.5,
+        "xp": 100,
+        "traits": [
+          {
+            "name": "Flyby",
+            "desc": "The wasp doesn't provoke opportunity attacks when it flies out of an enemy's reach."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Sting",
+            "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. \n***Hit:*** 5 (1d6 + 2) piercing damage plus 10 (3d6) poison damage. \nThe target must make a DC 11 Constitution saving throw, taking the poison damage on a failed save, or half as much damage on a successful one. \nIf the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.\n"
+          }
+        ]
+      }
+    ],
+    [
+      "Half-Dragon",
+      {
+        "name": "Half-Dragon",
+        "size": "Medium",
+        "type": "dragon",
+        "alignment": "neutral",
+        "ac": 18,
+        "hp": 105,
+        "hit_dice": "14d8 + 42",
+        "speed": "40 ft.",
+        "stats": [
+          19,
+          14,
+          16,
+          10,
+          15,
+          14
+        ],
+        "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 15",
+        "languages": "Common, Draconic",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Draconic Origin",
+            "desc": "Choose one: Acid, Cold, Fire, Lightning, or Poison. The half-dragon gains resistance to that damage type."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The half-dragon makes two Claw attacks."
+          },
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft. Hit: 6 (1d4 + 4) slashing + 7 (2d6) damage of the chosen type."
+          },
+          {
+            "name": "Dragon’s Breath (Recharge 5–6)",
+            "desc": "Exhales in a 30-foot cone. DC 14 Dex save. 28 (8d6) damage of the chosen type on failure, half on success."
+          }
+        ]
+      }
+    ],
+    [
+      "Glow Toad",
+      {
+        "name": "Glow Toad",
+        "size": "Tiny",
+        "type": "fey",
+        "alignment": "neutral good",
+        "ac": 13,
+        "hp": 16,
+        "hit_dice": "3d4 + 9",
+        "speed": "20 ft.",
+        "stats": [
+          6,
+          16,
+          16,
+          6,
+          15,
+          10
+        ],
+        "skills": "Insight +4, Perception +4",
+        "damage_resistances": "poison, bludgeoning, piercing, and slashing from nonmagical weapons",
+        "condition_immunities": "blinded, charmed",
+        "senses": "passive Perception 14",
+        "languages": "understands Common and Sylvan but can’t speak",
+        "challenge": 1,
+        "xp": 200,
+        "traits": [
+          {
+            "name": "Colorful Skin",
+            "desc": "The glow toad changes color depending on its mood: Yellow (regular), Pink (happy), Red (angry), Purple (guilty), Blue (concerned), Green (afraid)."
+          },
+          {
+            "name": "Illumination",
+            "desc": "As a bonus action, the glow toad can shed dim light in a 10-foot radius or extinguish the light."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The glow toad has advantage on saving throws against spells and other magical effects."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Lick",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage."
+          },
+          {
+            "name": "Light Flash (Recharge 5–6)",
+            "desc": "The glow toad emits a fierce light from the dark spots on its body. Each creature in a 15-foot cone must succeed on a DC 13 Constitution saving throw or become blinded until the end of the glow toad’s next turn."
+          },
+          {
+            "name": "Invisibility",
+            "desc": "The glow toad magically turns invisible until it attacks or uses its Light Flash, or until its concentration ends (as if concentrating on a spell). Any equipment the glow toad wears or carries is invisible with it."
+          }
+        ]
+      }
+    ],
+    [
+      "Goblin Hexer",
+      {
+        "name": "Goblin Hexer",
+        "size": "Small",
+        "type": "fey (goblinoid)",
+        "alignment": "chaotic neutral",
+        "ac": 13,
+        "hp": 45,
+        "hit_dice": "10d6 + 10",
+        "speed": "30 ft.",
+        "stats": [
+          8,
+          16,
+          12,
+          16,
+          10,
+          10
+        ],
+        "skills": "Sleight of Hand +5, Stealth +7",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "Common, Goblin",
+        "challenge": 3,
+        "xp": 700,
+        "traits": [
+          {
+            "name": "Spellcasting",
+            "desc": "The goblin hexer casts one of the following spells, using Intelligence as its spellcasting ability (spell save DC 13):\n• At will: minor illusion\n• 1/day each: blindness/deafness, faerie fire, grease"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The goblin hexer makes two Hex Stick attacks. It can replace one of these attacks with a use of Spellcasting."
+          },
+          {
+            "name": "Hex Stick",
+            "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 60 ft., one target. Hit: 12 (2d8 + 3) psychic damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Jinx",
+            "desc": "Trigger: A creature the goblin hexer can see hits it with an attack roll. The triggering creature must make a DC 13 Wisdom saving throw. On a failure, the attack misses."
+          }
+        ]
+      }
+    ],
+    [
+      "Goblin Boss",
+      {
+        "name": "Goblin Boss",
+        "size": "Small",
+        "type": "fey (goblinoid)",
+        "alignment": "chaotic neutral",
+        "ac": 17,
+        "hp": 21,
+        "hit_dice": "6d6",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          15,
+          10,
+          10,
+          8,
+          10
+        ],
+        "skills": "Stealth +6",
+        "senses": "darkvision 60 ft., passive Perception 9",
+        "languages": "Common, Goblin",
+        "challenge": 1,
+        "xp": 200,
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The goblin boss makes two attacks, using its Scimitar or Shortbow in any combination."
+          },
+          {
+            "name": "Scimitar",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage. If the attack roll had advantage, the target takes an extra 2 (1d4) slashing damage."
+          },
+          {
+            "name": "Shortbow",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage. If the attack roll had advantage, the target takes an extra 2 (1d4) piercing damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Nimble Escape",
+            "desc": "The goblin boss takes the Disengage or Hide action."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Redirect Attack",
+            "desc": "Trigger: A creature the goblin boss can see makes an attack roll against it. The goblin boss chooses a Small or Medium ally within 5 feet. The goblin boss and that ally swap places, and the ally becomes the target of the attack instead."
+          }
+        ]
+      }
+    ],
+    [
+      "Goblin Warrior",
+      {
+        "name": "Goblin Warrior",
+        "size": "Small",
+        "type": "fey (goblinoid)",
+        "alignment": "chaotic neutral",
+        "ac": 15,
+        "hp": 10,
+        "hit_dice": "3d6",
+        "speed": "30 ft.",
+        "stats": [
+          8,
+          15,
+          10,
+          10,
+          8,
+          8
+        ],
+        "skills": "Stealth +6",
+        "senses": "darkvision 60 ft., passive Perception 9",
+        "languages": "Common, Goblin",
+        "challenge": 0.25,
+        "xp": 50,
+        "actions": [
+          {
+            "name": "Scimitar",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage. If the attack roll had advantage, the target takes an extra 2 (1d4) slashing damage."
+          },
+          {
+            "name": "Shortbow",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage. If the attack roll had advantage, the target takes an extra 2 (1d4) piercing damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Nimble Escape",
+            "desc": "The goblin warrior takes the Disengage or Hide action."
+          }
+        ]
+      }
+    ],
+    [
+      "Goblin Minion",
+      {
+        "name": "Goblin Minion",
+        "size": "Small",
+        "type": "fey (goblinoid)",
+        "alignment": "chaotic neutral",
+        "ac": 12,
+        "hp": 7,
+        "hit_dice": "2d6",
+        "speed": "30 ft.",
+        "stats": [
+          8,
+          15,
+          10,
+          10,
+          8,
+          8
+        ],
+        "skills": "Stealth +6",
+        "senses": "darkvision 60 ft., passive Perception 9",
+        "languages": "Common, Goblin",
+        "challenge": 0.125,
+        "xp": 25,
+        "actions": [
+          {
+            "name": "Dagger",
+            "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Nimble Escape",
+            "desc": "The goblin minion takes the Disengage or Hide action."
+          }
+        ]
+      }
+    ],
+    [
+      "Gilded Youngster Noble",
+      {
+        "name": "Gilded Youngster Noble",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "any alignment",
+        "ac": 19,
+        "hp": 99,
+        "hit_dice": "12d10 + 20",
+        "speed": "45 ft.",
+        "stats": [
+          20,
+          12,
+          16,
+          11,
+          10,
+          10
+        ],
+        "senses": "passive Perception 10",
+        "languages": "Common",
+        "challenge": 4,
+        "xp": 1100,
+        "traits": [
+          {
+            "name": "Parry",
+            "desc": "When the noble is hit by a melee attack, it can use its reaction to add 3 to its AC for that attack, potentially causing the attack to miss."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The noble makes two Gold-Tinted Sword attacks."
+          },
+          {
+            "name": "Gold-Tinted Sword",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) slashing damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Summon Sword",
+            "desc": "The noble magically summons the Gold-Tinted Sword to its hand. The sword appears instantly in its grasp."
+          },
+          {
+            "name": "Leap",
+            "desc": "The noble jumps up to 30 feet in any direction, costing 10 feet of movement. It must succeed on a DC 10 Dexterity check or fall prone and slide an extra 5 feet in the direction it jumped from."
+          }
+        ]
+      }
+    ],
+    [
+      "Thrumbo",
+      {
+        "name": "Thrumbo",
+        "size": "Huge",
+        "type": "fey",
+        "alignment": "lawful neutral",
+        "ac": 18,
+        "hp": 160,
+        "hit_dice": "18d8 + 79",
+        "speed": "40 ft.",
+        "stats": [
+          21,
+          14,
+          18,
+          10,
+          15,
+          15
+        ],
+        "saving_throws": "STR +9, CON +8, WIS +6",
+        "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks",
+        "damage_immunities": "cold, poison",
+        "condition_immunities": "frightened, petrified, poisoned",
+        "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 12",
+        "languages": "Sylvan, telepathy 120 ft.",
+        "challenge": 12,
+        "xp": 8400,
+        "traits": [
+          {
+            "name": "Charge",
+            "desc": "If the Thrumbo moves at least 30 ft. straight toward a target and then hits it with a Horn Slash attack on the same turn, the target takes an extra 10 (3d6) slashing damage."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The Thrumbo has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Fey Ancestry",
+            "desc": "The Thrumbo has advantage on saving throws against being charmed, and magic can't put it to sleep."
+          },
+          {
+            "name": "Indomitable (2/Day)",
+            "desc": "The Thrumbo can reroll a failed saving throw. It must use the new roll."
+          },
+          {
+            "name": "Ice Aura",
+            "desc": "Any creature that comes within 5 feet of the Thrumbo takes 1d6 cold damage. A creature takes 1d6 cold damage every turn it starts its turn within the aura. The aura also wards off any nonmagical fire attacks."
+          },
+          {
+            "name": "Regeneration",
+            "desc": "The Thrumbo regains 10 hit points at the start of its turn. If it takes acid or fire damage, this trait doesn't function at the start of its next turn. The Thrumbo dies only if it starts its turn with 0 hit points and doesn't regenerate."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Thrumbo makes three attacks: two with its horn and one with Stomp."
+          },
+          {
+            "name": "Horn Slash",
+            "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 10 (3d6) cold damage."
+          },
+          {
+            "name": "Stomp",
+            "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage."
+          },
+          {
+            "name": "Cone of Cold (3/Day)",
+            "desc": "The Thrumbo exhales a blast of cold air in a 60-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 28 (8d6) cold damage on a failed save, or half as much damage on a successful one. A creature killed by this effect becomes a frozen statue until it thaws."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Aura Explosion (Costs 2 Actions)",
+            "desc": "The Thrumbo's magical aura surges. Each creature within 10 feet of it must make a DC 17 Dexterity saving throw, taking 15 (2d10 + 4) cold damage and being knocked back 5 feet on a failed save. On a successful save, the creature takes half the damage and is not knocked back."
+          },
+          {
+            "name": "Horn Slash",
+            "desc": "The Thrumbo makes one Horn Slash attack."
+          },
+          {
+            "name": "Move",
+            "desc": "The Thrumbo moves up to half its speed (20 ft.) in any direction."
+          }
+        ]
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 3
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

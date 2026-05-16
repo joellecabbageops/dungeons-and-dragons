@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a77a3b03ff03dc1",
+            "id": "b6e928c6b3c92a4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 8 20260509.md",
+                "file": "Conjured Elemental.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 8 20260509"
+              "title": "Conjured Elemental"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session 8",
+                "query": "distance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,12 +162,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "8b05841036715e3e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -178,11 +189,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "6a77a3b03ff03dc1",
+  "active": "b6e928c6b3c92a4e",
   "lastOpenFiles": [
+    "Pasted image 20260513201843.png",
+    "Gribbets.md",
+    "Conjured Elemental.md",
+    "Find Familiar.md",
+    "Wisdom.md",
+    "Mending.md",
+    "Session 8 20260509.md",
     "city of Mauervell.md",
     "Alour.md",
     "Session 7 20260425.md",
@@ -202,13 +222,6 @@
     "Experimental Encounter.md",
     "City of Traeoul.md",
     "Battle Royale.md",
-    "Lucy Longbottom.md",
-    "Session 8 20260509.md",
-    "The tale of seven.md",
-    "Session 6.md",
-    "Great Wise One.md",
-    "Vanagan's Youth Session 6.md",
-    "Vanagan's Youth Session 5.md",
     "Pasted image 20260208110008.png",
     "Untitled.canvas"
   ]

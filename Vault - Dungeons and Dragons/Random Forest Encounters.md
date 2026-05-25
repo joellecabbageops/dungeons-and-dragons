@@ -20,3 +20,4 @@
 20. Constrictor snake fighting one of the first 20 on the list
 21. 1d6 boars
 22. Badger
+23. Clockwork Beetle swarm

@@ -9,3 +9,13 @@ creatures:
 party:  Fighters 1
 ```
 
+```encounter
+creatures:
+  - Clockwork Abomination
+  - Clockwork Hound
+  - Clockwork Huntsman
+players:
+  - Tenet
+  - Ellary
+  - Lucy Longbottom
+```

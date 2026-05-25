@@ -1,0 +1,4 @@
+A tall, round faced man who wears leathers with some shoulder plating and abdomen plating for extra protection. He carries a tall, very clean, steel mace and uses it like a walking staff.
+He's from a moderate lengthed family of people who have taken charge of controlling kobolds when they get too audacious every year. They formed their line of work after, [[Sainhuin the Red Dragon]] last went to sleep.
+He's a pleasant man with good intentions for people of every kind, who contains the understanding that an aggressive and invasive population is good for nobody. 
+in [[1408]] He's been waiting for anybody at all to come through his village and journey toward the dragon den to calm the Kobolds. Everybody who has come through his village, [[Baldina Village]], have been treasure and glory hunters, uninterested in stopping

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5db69bb427d7da61",
+        "id": "9faa8b67067cecd5",
         "type": "tabs",
         "children": [
           {
-            "id": "b6e928c6b3c92a4e",
+            "id": "a70df78fd4279af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conjured Elemental.md",
+                "file": "Giant Wasp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conjured Elemental"
+              "title": "Giant Wasp"
+            }
+          },
+          {
+            "id": "6c0c42c81eedd5ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boreman Kobolder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boreman Kobolder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distance",
+                "query": "giant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,11 +190,29 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "699bd0dd672c7b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30e1f878f6d167fa",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_c968a96aba29",
+                "creatureName": "Clockwork Abomination"
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +227,19 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b6e928c6b3c92a4e",
+  "active": "6c0c42c81eedd5ea",
   "lastOpenFiles": [
+    "Boreman Kobolder.md",
+    "Giant Wasp.md",
+    "Hudson Walliker.md",
+    "Session 6.md",
+    "Level 3 - Fight 1.md",
+    "Random Forest Encounters.md",
+    "Gommin's town.md",
+    "Kobolds.md",
+    "Conjured Elemental.md",
     "Pasted image 20260513201843.png",
     "Gribbets.md",
-    "Conjured Elemental.md",
     "Find Familiar.md",
     "Wisdom.md",
     "Mending.md",
@@ -215,13 +256,6 @@
     "Level 6 - Fight 1.md",
     "Level 5 Fight 2.md",
     "Level 5 Fight 1.md",
-    "Level 4 - Fight 2.md",
-    "Level 3 - Fight 2.md",
-    "Level 3 - Fight 1.md",
-    "Giant Wasps.md",
-    "Experimental Encounter.md",
-    "City of Traeoul.md",
-    "Battle Royale.md",
     "Pasted image 20260208110008.png",
     "Untitled.canvas"
   ]

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boreman Kobolder.md",
+                "file": "City of Quenya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boreman Kobolder"
+              "title": "City of Quenya"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "giant",
+                "query": "Quenya",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,7 +201,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_c968a96aba29",
+                "creatureId": "ID_4b095b5bf9cb",
                 "creatureName": "Clockwork Abomination"
               },
               "icon": "initiative-tracker-creature-view",
@@ -229,6 +229,8 @@
   },
   "active": "6c0c42c81eedd5ea",
   "lastOpenFiles": [
+    "Session 7 20260425.md",
+    "City of Quenya.md",
     "Boreman Kobolder.md",
     "Giant Wasp.md",
     "Hudson Walliker.md",
@@ -246,7 +248,6 @@
     "Session 8 20260509.md",
     "city of Mauervell.md",
     "Alour.md",
-    "Session 7 20260425.md",
     "Ellary of Smiffen Burrows.md",
     "Vakama.md",
     "level 4 - Fight 1.md",
@@ -255,7 +256,6 @@
     "Level 6 Fight 2.md",
     "Level 6 - Fight 1.md",
     "Level 5 Fight 2.md",
-    "Level 5 Fight 1.md",
     "Pasted image 20260208110008.png",
     "Untitled.canvas"
   ]

@@ -1,0 +1,2 @@
+These Orcs are the rangers of the Orc tribes.
+They value finding new lands before the other tribes. They take in the sights of their new prize, and return home to spread word to the other tribes, rejoicing in any Orc tribe seizing the land they shared. They also hold this over the heads of the other tribes, 

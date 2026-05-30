@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "giant",
+                "query": "session 8",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +215,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_0acb2be84a18",
+                "creatureId": "ID_09ea7a095b7b",
                 "creatureName": "Clockwork Abomination"
               },
               "icon": "initiative-tracker-creature-view",
@@ -243,7 +243,13 @@
   },
   "active": "d7012a10fa127564",
   "lastOpenFiles": [
+    "city of Mauervell.md",
+    "Session 8 20260509.md",
+    "Ellary of Smiffen Burrows.md",
     "session 9 20260529.md",
+    "Orc Tribes.md",
+    "Orc TOXOTES/TOKOTAI.md",
+    "Orc TOXOTES",
     "Boreman Kobolder.md",
     "Giant Wasp.md",
     "Hudson Walliker.md",
@@ -258,18 +264,13 @@
     "Find Familiar.md",
     "Wisdom.md",
     "Mending.md",
-    "Session 8 20260509.md",
-    "city of Mauervell.md",
     "Alour.md",
     "Session 7 20260425.md",
-    "Ellary of Smiffen Burrows.md",
     "Vakama.md",
     "level 4 - Fight 1.md",
     "Untitled 1.md",
     "Mauriel.md",
     "Level 6 Fight 2.md",
-    "Level 6 - Fight 1.md",
-    "Level 5 Fight 2.md",
     "Pasted image 20260208110008.png",
     "Untitled.canvas"
   ]

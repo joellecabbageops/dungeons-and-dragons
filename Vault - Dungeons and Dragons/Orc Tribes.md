@@ -4,3 +4,5 @@
 [[Orc LORICATI]]
 [[Orc BASILISSAS]]
 [[Orc DEVOURERS]]
+[[Orc TOXOTES/TOKOTAI]]
+

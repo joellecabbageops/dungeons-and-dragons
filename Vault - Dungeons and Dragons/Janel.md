@@ -1,0 +1,1 @@
+The main elf from [[Bandit town in the forest of Doorn]] that was rescued.

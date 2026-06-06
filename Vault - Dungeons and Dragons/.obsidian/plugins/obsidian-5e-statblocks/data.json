@@ -1265,6 +1265,113 @@
           }
         ]
       }
+    ],
+    [
+      "Kobold Champion",
+      {
+        "name": "Kobold Champion",
+        "size": "Small",
+        "type": "humanoid (kobold)",
+        "alignment": "any alignment",
+        "ac": 16,
+        "ac_source": "breastplate",
+        "hp": 82,
+        "hit_dice": "15d6 + 30",
+        "speed": "35 ft.",
+        "stats": [
+          15,
+          17,
+          15,
+          8,
+          13,
+          15
+        ],
+        "saving_throws": "Dex +5",
+        "skills": "Perception +3",
+        "senses": "darkvision 60 ft., passive Perception 13",
+        "languages": "Common, Draconic",
+        "cr": "3",
+        "xp": 700,
+        "traits": [
+          {
+            "name": "Dragon Resistance",
+            "desc": "The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a d10): 1-2 acid (black), 3-4 cold (white), 5-6 fire (red), 7-8 lightning (blue), 9-10 poison (green)."
+          },
+          {
+            "name": "Pack Tactics",
+            "desc": "The kobold champion has advantage on an attack roll against a creature if at least one of the kobold champion's allies is within 5 feet of the creature and the ally isn't incapacitated."
+          },
+          {
+            "name": "Inspiring Presence",
+            "desc": "Other kobolds within 30 feet of the kobold champion can't be frightened and will not retreat, fighting to the death so long as the champion isn't incapacitated."
+          },
+          {
+            "name": "Underdog",
+            "desc": "If the kobold champion is fighting a creature of larger size than it, it deals an additional 7 (2d6) damage on any of its attacks. Also, if the kobold champion is reduced to 0 hit points, it can instantly recover to 1 hit point once per long rest."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The kobold champion makes two attacks with its Rapier or Shortbow."
+          },
+          {
+            "name": "Rapier",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. If the target is larger than the kobold, add 7 (2d6) piercing damage."
+          },
+          {
+            "name": "Shortbow",
+            "desc": "Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage. If the target is larger than the kobold, add 7 (2d6) piercing damage."
+          }
+        ]
+      }
+    ],
+    [
+      "Greater Kobold Healer",
+      {
+        "name": "Greater Kobold Healer",
+        "size": "Small",
+        "type": "humanoid (kobold)",
+        "alignment": "unaligned",
+        "ac": 13,
+        "ac_source": "natural armor",
+        "hp": 20,
+        "hit_dice": "5d9 - 5",
+        "speed": "25 ft.",
+        "stats": [
+          7,
+          13,
+          9,
+          8,
+          16,
+          8
+        ],
+        "damage_resistances": "fire (or relevant elemental damage)",
+        "senses": "passive Perception 13",
+        "languages": "Common, Draconic",
+        "cr": "1/4",
+        "xp": 50,
+        "actions": [
+          {
+            "name": "Staff",
+            "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 3 (1d6 + 0) bludgeoning damage."
+          },
+          {
+            "name": "Greater Koboldian Healing (1/Day)",
+            "desc": "The kobold activates a concentration spell that heals 3d6 hit points to one target. This spell cannot be moved between creatures."
+          },
+          {
+            "name": "Koboldian Healing Word",
+            "desc": "A creature of the kobold's choice that it can see within range regains hit points equal to 1d4 + 3 (Wisdom modifier)."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Shield (1/Day)",
+            "desc": "When hit by an attack or targeted by Magic Missile, the kobold gains +5 AC until the start of its next turn (including against the triggering attack) and takes no damage from Magic Missile."
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {},

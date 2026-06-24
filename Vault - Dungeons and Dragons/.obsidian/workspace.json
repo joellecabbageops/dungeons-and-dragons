@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9faa8b67067cecd5",
+        "id": "7cf3770b27a40f77",
         "type": "tabs",
         "children": [
           {
-            "id": "a70df78fd4279af5",
+            "id": "788e6e46a9a41038",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Giant Wasp.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Giant Wasp"
-            }
-          },
-          {
-            "id": "6c0c42c81eedd5ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boreman Kobolder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boreman Kobolder"
-            }
-          },
-          {
-            "id": "d7012a10fa127564",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session 9 20260529.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "session 9 20260529"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session 8",
+                "query": "island",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,8 +182,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_893a2a998b8b",
-                "creatureName": "Clockwork Abomination"
+                "creatureId": "ID_48d9fb39eaa8",
+                "creatureName": "Pirate"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -241,21 +208,24 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d7012a10fa127564",
+  "active": "788e6e46a9a41038",
   "lastOpenFiles": [
+    "Tesar Island session 1 20260618.md",
+    "Tesar island campaign.md",
+    "Seed bank encounter.md",
+    "session 9 20260529.md",
+    "Giant Wasp.md",
+    "Boreman Kobolder.md",
+    "Random Forest Encounters.md",
     "city of Mauervell.md",
     "Session 8 20260509.md",
     "Ellary of Smiffen Burrows.md",
-    "session 9 20260529.md",
     "Orc Tribes.md",
     "Orc TOXOTES/TOKOTAI.md",
     "Orc TOXOTES",
-    "Boreman Kobolder.md",
-    "Giant Wasp.md",
     "Hudson Walliker.md",
     "Session 6.md",
     "Level 3 - Fight 1.md",
-    "Random Forest Encounters.md",
     "Gommin's town.md",
     "Kobolds.md",
     "Conjured Elemental.md",
@@ -268,9 +238,6 @@
     "Session 7 20260425.md",
     "Vakama.md",
     "level 4 - Fight 1.md",
-    "Untitled 1.md",
-    "Mauriel.md",
-    "Level 6 Fight 2.md",
     "Pasted image 20260208110008.png",
     "Untitled.canvas"
   ]

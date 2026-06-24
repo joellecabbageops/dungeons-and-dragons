@@ -1372,6 +1372,103 @@
           }
         ]
       }
+    ],
+    [
+      "Pirate Captain",
+      {
+        "name": "Pirate Captain",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "neutral",
+        "ac": 17,
+        "hp": 84,
+        "hit_dice": "13d8 + 26",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          18,
+          14,
+          10,
+          14,
+          17
+        ],
+        "saving_throws": "Dex +7, Wis +5, Cha +6",
+        "skills": "Acrobatics +7, Perception +5",
+        "senses": "passive Perception 15",
+        "languages": "Common plus one other language",
+        "cr": "6",
+        "xp": 2300,
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The pirate captain makes three attacks, using its Rapier or Pistol in any combination."
+          },
+          {
+            "name": "Rapier",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage. The pirate has advantage on the next attack roll it makes before the end of its turn."
+          },
+          {
+            "name": "Pistol",
+            "desc": "Ranged Weapon Attack: +7 to hit, range 30/90 ft., one target. Hit: 15 (2d10 + 4) piercing damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Captain’s Charm",
+            "desc": "The pirate captain targets one creature it can see within 30 feet. The target must succeed on a DC 14 Wisdom saving throw or be charmed until the start of the pirate captain’s next turn."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Riposte",
+            "desc": "Trigger: The pirate captain is hit by a melee attack while holding a weapon. Response: The captain adds 3 to its AC against that attack. If the attack misses, the captain makes one Rapier attack against the triggering creature if it is within range."
+          }
+        ]
+      }
+    ],
+    [
+      "Pirate",
+      {
+        "name": "Pirate",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "neutral",
+        "ac": 14,
+        "hp": 33,
+        "hit_dice": "6d8 + 6",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          16,
+          12,
+          8,
+          12,
+          14
+        ],
+        "saving_throws": "Dex +5, Cha +4",
+        "senses": "passive Perception 11",
+        "languages": "Common plus one other language",
+        "cr": "1",
+        "xp": 200,
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The pirate makes two Dagger attacks. It can replace one attack with a use of Enthralling Panache."
+          },
+          {
+            "name": "Dagger (Melee)",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+          },
+          {
+            "name": "Dagger (Ranged)",
+            "desc": "Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+          },
+          {
+            "name": "Enthralling Panache",
+            "desc": "Wisdom Saving Throw: DC 12, one creature the pirate can see within 30 feet. Failure: The target has the Charmed condition until the start of the pirate’s next turn."
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {},

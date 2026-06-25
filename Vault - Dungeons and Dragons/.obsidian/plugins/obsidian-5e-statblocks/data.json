@@ -1469,6 +1469,177 @@
           }
         ]
       }
+    ],
+    [
+      "Turtlefolk",
+      {
+        "name": "Turtlefolk",
+        "size": "Medium",
+        "type": "humanoid (lizardfolk)",
+        "alignment": "neutral",
+        "ac": 18,
+        "ac_source": "natural armor",
+        "hp": 22,
+        "hit_dice": "4d8 + 4",
+        "speed": "20 ft., swim 40 ft.",
+        "stats": [
+          15,
+          10,
+          13,
+          7,
+          12,
+          7
+        ],
+        "skills": "Perception +3, Survival +5",
+        "senses": "passive Perception 13",
+        "languages": "Aquan, Draconic",
+        "cr": "1",
+        "xp": 200,
+        "traits": [
+          {
+            "name": "Hold Breath",
+            "desc": "The turtlefolk can hold its breath for 15 minutes."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The turtlefolk makes two melee attacks: one with its Bite and one with its Mace."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+          },
+          {
+            "name": "Mace",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage."
+          }
+        ]
+      }
+    ],
+    [
+      "War Troll",
+      {
+        "name": "War Troll",
+        "size": "Large",
+        "type": "giant",
+        "alignment": "lawful evil",
+        "ac": 18,
+        "ac_source": "plate",
+        "hp": 184,
+        "hit_dice": "16d10 + 96",
+        "speed": "30 ft.",
+        "stats": [
+          25,
+          16,
+          23,
+          8,
+          15,
+          10
+        ],
+        "saving_throws": "Str +11, Con +10, Wis +6",
+        "skills": "Athletics +11, Perception +10",
+        "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine",
+        "senses": "darkvision 120 ft., passive Perception 20",
+        "languages": "Giant",
+        "cr": "12",
+        "xp": 8400,
+        "traits": [
+          {
+            "name": "Alert",
+            "desc": "The troll gains a +5 bonus to initiative rolls. It can't be surprised while conscious, and other creatures don't gain advantage on attack rolls against it as a result of being unseen by it."
+          },
+          {
+            "name": "Dazing Blow (1/Turn)",
+            "desc": "When the troll hits a creature with a weapon attack, the target must succeed on a DC 18 Strength saving throw or be knocked prone."
+          },
+          {
+            "name": "Keen Smell",
+            "desc": "The troll has advantage on Wisdom (Perception) checks that rely on smell."
+          },
+          {
+            "name": "Regeneration",
+            "desc": "The troll regains 10 hit points at the start of its turn. If the troll takes acid damage, this trait doesn't function at the start of its next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The troll makes three attacks."
+          },
+          {
+            "name": "Greatsword",
+            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) slashing damage."
+          },
+          {
+            "name": "Longbow",
+            "desc": "Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 12 (2d8 + 3) piercing damage."
+          }
+        ]
+      }
+    ],
+    [
+      "Weretiger",
+      {
+        "name": "Weretiger",
+        "size": "Medium",
+        "type": "humanoid (human, shapechanger)",
+        "alignment": "neutral",
+        "ac": 12,
+        "hp": 120,
+        "hit_dice": "16d8 + 48",
+        "speed": "30 ft. (40 ft. in tiger form)",
+        "stats": [
+          17,
+          15,
+          16,
+          10,
+          13,
+          11
+        ],
+        "skills": "Perception +5, Stealth +4",
+        "damage_immunities": "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+        "senses": "darkvision 60 ft., passive Perception 15",
+        "languages": "Common (can't speak in tiger form)",
+        "cr": "4",
+        "xp": 1100,
+        "traits": [
+          {
+            "name": "Shapechanger",
+            "desc": "The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+          },
+          {
+            "name": "Keen Hearing and Smell",
+            "desc": "The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+          },
+          {
+            "name": "Pounce (Tiger or Hybrid Form Only)",
+            "desc": "If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack (Humanoid or Hybrid Form Only)",
+            "desc": "In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it makes two claw attacks or attacks like a humanoid."
+          },
+          {
+            "name": "Bite (Tiger or Hybrid Form Only)",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy."
+          },
+          {
+            "name": "Claw (Tiger or Hybrid Form Only)",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage."
+          },
+          {
+            "name": "Scimitar (Humanoid or Hybrid Form Only)",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
+          },
+          {
+            "name": "Longbow (Humanoid or Hybrid Form Only)",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {},

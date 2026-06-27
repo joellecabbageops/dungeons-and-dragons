@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session 9 20260529.md",
+                "file": "Seed bank encounter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session 9 20260529"
+              "title": "Seed bank encounter"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session 9",
+                "query": "session 10",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,8 +229,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_09fb781ba97b",
-                "creatureName": "Clockwork Watchman"
+                "creatureId": "ID_3b1aab6a1acb",
+                "creatureName": "Raider - Orc Berserker"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -259,12 +259,12 @@
   "lastOpenFiles": [
     "Session 11 2026-06-27.md",
     "Session 10 2026-06-20.md",
+    "session 9 20260529.md",
+    "Seed bank encounter.md",
     "Alex Goldwill.md",
     "Tesar island campaign.md",
     "Tesar Island session 2 20260618.md",
     "Tesar Island Session 3 2026-06-25.md",
-    "session 9 20260529.md",
-    "Seed bank encounter.md",
     "Level 4 - Fight 2.md",
     "Time to learn combat.md",
     "level 4 - Fight 1.md",

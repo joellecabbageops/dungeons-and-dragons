@@ -26,7 +26,7 @@ creatures:
   - Marauder - Orc Berserker
   - Orc TOKOTAI - Prodromos
   - Orc TOKOTAI - Prodromos
-party: Tale of Seven
+party:  Tale of seven
 ```
 
 C3 - The doorway on the right hand side leads into a room with 3 passed out elves, and one left still awake, sitting against a shelf. They all need food and water desperately, but are not dead.
@@ -48,7 +48,7 @@ Dexterity
 10 of the jars give a +2 to the relevant stat for the next 5 minutes
 
 C-11 - This room of cases has red seeds lining the wall, each one stacked to the brim with seeds in glass preserving jars. One of the standing cases contains a variety of preserved foods, seemingly showing different ways to prepare whatever it is the seeds grow. Hooked to the side of the case is a collection of fine parchments (they provide lots of different ways to cook the food, suggesting different ingredients and portions.)
-Strength
+Intelligence
 10 of the jars give a +1 to the relevant stat for the next 10 minutes
 10 of the jars give a +2 to the relevant stat for the next 5 minutes
 

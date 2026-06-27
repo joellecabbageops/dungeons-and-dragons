@@ -3,7 +3,7 @@ Island travel:
 1/2 day from town to Tortle cave, 1/4 of a day from tortle cave to hermit home,
 
 [Aboard a small cargo ship headed to [[Tesar Island]].
-Cam is looking for his clans glory, Fionn is searching for piece, Natasha is here to help the trees.
+Cam Tempest Heskin is looking for his clans glory, Fionn is searching for piece, Natasha is here to help the trees.
 Wyld wants to become the strongest wizard, 
 Arriving on the island they fought and lost to a megasloth, and then fought and killed three zombies.
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesar island campaign.md",
+                "file": "Tesar Island Session 3 2026-06-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tesar island campaign"
+              "title": "Tesar Island Session 3 2026-06-25"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "island",
+                "query": "forest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_48d9fb39eaa8",
+                "creatureId": "ID_7a2818fb0ad8",
                 "creatureName": "Pirate"
               },
               "icon": "initiative-tracker-creature-view",
@@ -215,18 +215,18 @@
   "active": "788e6e46a9a41038",
   "lastOpenFiles": [
     "Tesar Island session 2 20260618.md",
-    "Tesar Island Session 3 2026-06-25.md",
     "Tesar island campaign.md",
+    "Random Forest Encounters.md",
+    "Orc Tribes.md",
+    "Orc TOXOTES/TOKOTAI.md",
+    "Tesar Island Session 3 2026-06-25.md",
     "Seed bank encounter.md",
     "session 9 20260529.md",
     "Giant Wasp.md",
     "Boreman Kobolder.md",
-    "Random Forest Encounters.md",
     "city of Mauervell.md",
     "Session 8 20260509.md",
     "Ellary of Smiffen Burrows.md",
-    "Orc Tribes.md",
-    "Orc TOXOTES/TOKOTAI.md",
     "Orc TOXOTES",
     "Hudson Walliker.md",
     "Session 6.md",

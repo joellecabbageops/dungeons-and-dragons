@@ -30,11 +30,11 @@ Chest 1: Loot chest
 		- Potion of Healing
 		- Moon-Touched Sword (greatsword) (common, page 138) 
 		- +1 Shield
-	- Chest 2
+	- Chest 2 emptied
 		  Ball Bearings: affects all targets within a 10 ft. square area, DC 10 save or fall prone, creatures moving at half-speed do not need to make the save; heroic tier, setback
-	- Chest 3
+	- Chest 3 emptied
 		- Potion of Potion Resistance (Potion): When you drink this potion, you gain resistance to other potions. For the next hour, any quantitative effects of other potions you drink are halved.
-	- Chest 4
+	- Chest 4 emptied
 		- Potion of Climbing (common, dmg 187)
 		- A dragon's tooth engraved with endless spirals. When held and activated, the cypher conjures a non-magical weapon of your choice.
 

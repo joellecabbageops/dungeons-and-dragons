@@ -81,6 +81,7 @@
       "player": true
     },
     {
+<<<<<<< Updated upstream
       "name": "Fionn",
       "player": true
     },
@@ -101,6 +102,19 @@
     },
     {
       "name": "Natasha",
+=======
+      "name": "Nethros Granstrid",
+      "level": 4,
+      "player": true
+    },
+    {
+      "name": "Dourak Gourson",
+      "player": true
+    },
+    {
+      "name": "Merila",
+      "level": 4,
+>>>>>>> Stashed changes
       "player": true
     }
   ],
@@ -119,7 +133,12 @@
     },
     {
       "name": "Arena party 1",
-      "players": []
+      "players": [
+        "Dourak Gourson",
+        "Merila",
+        "Nethros Granstrid",
+        "Bottleboy 2.0.1"
+      ]
     },
     {
       "name": "Fighters 1",
@@ -240,13 +259,24 @@
   "state": {
     "creatures": [
       {
+<<<<<<< Updated upstream
         "name": "Cam",
         "initiative": 18,
+=======
+        "name": "Vakama",
+        "initiative": 19,
+>>>>>>> Stashed changes
         "static": false,
         "modifier": 0,
         "hp": 0,
         "currentMaxHP": 0,
+<<<<<<< Updated upstream
         "id": "ID_aa3b497ba8b9",
+=======
+        "note": "Vakama",
+        "path": "Vakama.md",
+        "id": "ID_2b0b98c90968",
+>>>>>>> Stashed changes
         "currentHP": 0,
         "tempHP": 0,
         "status": [],
@@ -257,6 +287,7 @@
         "friendly": false
       },
       {
+<<<<<<< Updated upstream
         "name": "Natasha",
         "initiative": 13,
         "static": false,
@@ -430,11 +461,181 @@
         "currentAC": 14,
         "id": "ID_1949b9c87898",
         "currentHP": 0,
+=======
+        "name": "Ellary",
+        "initiative": 20,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "note": "Ellary of Smiffen Burrows",
+        "path": "Ellary of Smiffen Burrows.md",
+        "id": "ID_ca49ead83b39",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Lucy Longbottom",
+        "initiative": 15,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_6828c828e87a",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": true,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Tenet",
+        "initiative": 13,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_799b990acaaa",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Andrew",
+        "initiative": 21,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_d94b787a3bd8",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Shailavar Merilas",
+        "initiative": 5,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "note": "Shailavar Merilas",
+        "path": "Shailavar Merilas.md",
+        "id": "ID_8bd8db18a9ba",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Black Phoenix",
+        "initiative": 0,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_0b6b29db7a3a",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Clockwork Watchman",
+        "initiative": 5,
+        "static": false,
+        "modifier": 1,
+        "hp": 44,
+        "currentMaxHP": 44,
+        "cr": 0.5,
+        "ac": 14,
+        "currentAC": 14,
+        "id": "ID_19d98ba81b39",
+        "currentHP": 21,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "xp": 100,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "8d8 + 8",
+        "rollHP": true
+      },
+      {
+        "name": "Clockwork Watchman",
+        "initiative": 12,
+        "static": false,
+        "modifier": 1,
+        "hp": 44,
+        "currentMaxHP": 44,
+        "cr": 0.5,
+        "ac": 14,
+        "currentAC": 14,
+        "id": "ID_a8cada8958e9",
+        "currentHP": 8,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "xp": 100,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "8d8 + 8",
+        "rollHP": true
+      },
+      {
+        "name": "Clockwork Watchman",
+        "initiative": 17,
+        "static": false,
+        "modifier": 1,
+        "hp": 44,
+        "currentMaxHP": 44,
+        "cr": 0.5,
+        "ac": 14,
+        "currentAC": 14,
+        "id": "ID_09fb781ba97b",
+        "currentHP": -8,
+>>>>>>> Stashed changes
         "tempHP": 0,
         "status": [
           "Unconscious"
         ],
         "enabled": true,
+<<<<<<< Updated upstream
         "xp": 200,
         "active": false,
         "hidden": false,
@@ -572,6 +773,37 @@
         "hidden": false,
         "friendly": false,
         "hit_dice": "6d8 + 6",
+=======
+        "xp": 100,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "8d8 + 8",
+        "rollHP": true
+      },
+      {
+        "name": "Clockwork Watchman",
+        "initiative": 2,
+        "static": false,
+        "modifier": 1,
+        "hp": 44,
+        "currentMaxHP": 44,
+        "cr": 0.5,
+        "ac": 14,
+        "currentAC": 14,
+        "id": "ID_d9780a0b1829",
+        "currentHP": -7,
+        "tempHP": 0,
+        "status": [
+          "Unconscious"
+        ],
+        "enabled": true,
+        "xp": 100,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "8d8 + 8",
+>>>>>>> Stashed changes
         "rollHP": true
       }
     ],
